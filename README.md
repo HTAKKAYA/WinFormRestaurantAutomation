@@ -13,9 +13,9 @@ On the Orders page, the placed orders and their details are displayed.
 
 ### Add Menu
 On the 'Add Menu' page, the admin can add new menus.
-![Orders](/Git%20Images/AddMenu.png)
+![AddMenu](/Git%20Images/AddMenu.png)
 
 ### Add Product
 On the 'Add Product' page, the admin can add new products.
-![Orders](/Git%20Images/AddProduct.png)
+![AddProduct](/Git%20Images/AddProduct.png)
 
