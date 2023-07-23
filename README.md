@@ -4,7 +4,7 @@ Restaurant automation utilizing Object-Oriented Programming (OOP) technology, cr
 -language : C#
 
 ### Home
-On the home page, users can select meals, extra ingredients, and meal sizes. The added items will be listed in the cart along with their details. Orders can be confirmed.
+On the home page, users can select meals, extra ingredients, and meal sizes The added items will be listed in the cart along with their details Orders can be confirmed.
 ![Home](/Git%20Images/Home.png)
 
 ### Orders
